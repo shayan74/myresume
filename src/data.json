@@ -3,12 +3,10 @@
     "subtitle":"Full Stack | Php & Mysql | UX / UI | React | Html | CSS ",
     "links":{
         "Git":"https://github.com/shayan74",
-        "FB":"https://www.facebook.com/shayan.trex",
         "LinkedIn":"https://www.linkedin.com/in/shayan-ebrahimi/",
-        "Instagram":"https://www.instagram.com/shayan_trex/",
-        "Email":"mailto:shayan_ebrahimi@live.com",
-        "Whatsapp":"https://api.whatsapp.com/send?phone=+989124940538"
-    },
+        "Instagram":"https://www.instagram.com/byshayan/",
+        "Email":"mailto:shayan_ebrahimi@live.com"
+        },
     "ids":{
         "1":"SocialIcons1",
         "2":"SocialIcons2",
@@ -24,9 +22,9 @@
                 {
                     "SectionType":"Paragraph",
                     "OwnerName":"Shayan Ebrahimi",
-                    "Education":"Mechanical Engineer",
-                    "Degree":"BSC",
-                    "University":"Islamic Azad University"
+                    "Education":"Web Developer",
+                    "Degree":"BSc Mechanics",
+                    "University":"IAU"
                 }
             ]
             
